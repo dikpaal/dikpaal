@@ -7,6 +7,7 @@ I'm a passionate computer science student who believe that understanding the int
 ---
 
 ### 🧰 Languages
+<hr />
 <!-- Languages -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
