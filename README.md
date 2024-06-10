@@ -7,7 +7,6 @@ I'm a passionate computer science student who believe that understanding the int
 ---
 
 ### 🧰 Languages
-
 <!-- Languages -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -16,6 +15,7 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="R" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br />
 
 ### 🧰 Data Science and Machine Learning
 <!-- Data Science and Machine Learning -->
@@ -27,10 +27,9 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Keras" width="30px" style="padding-right:10px; margin-top: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-
+<br />
 
 ### 🧰 Web Development
-
 <!-- Web Development -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -39,9 +38,9 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="Express" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px; margin-top: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<br />
 
 ### 🧰 Tools and Frameworks
-
 <!-- Tools and Frameworks -->
 <img align="left" alt="ASP.NET" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
