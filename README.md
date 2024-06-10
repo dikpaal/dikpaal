@@ -1,3 +1,4 @@
+<img align="left" alt="Hi" width="30px" style="padding-right:10px;" src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" />
 # 🏄‍♂️ Dikpaal Patel
 
 **`Machine Learning Enthusiast`**
