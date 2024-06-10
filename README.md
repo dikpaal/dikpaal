@@ -30,7 +30,6 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="ASP.NET" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="JUnit" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="JWT" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
