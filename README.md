@@ -1,4 +1,4 @@
-# <img align="left" alt="Hi" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Dikpaal Patel
+# <img align="left" alt="Hi" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />  Dikpaal Patel
 
 **`Machine Learning Enthusiast`**
 
