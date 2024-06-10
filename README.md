@@ -7,7 +7,7 @@ I'm a passionate computer science student who believe that understanding the int
 
 ---
 
-### 🧰 Languages
+### > Languages
 <!-- Languages -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -21,7 +21,7 @@ I'm a passionate computer science student who believe that understanding the int
 <hr />
 
 
-### 🧰 Data Science and Machine Learning
+### > Data Science and Machine Learning
 <!-- Data Science and Machine Learning -->
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -32,7 +32,7 @@ I'm a passionate computer science student who believe that understanding the int
 <br />
 <hr />
 
-### 🧰 Web Development
+### > Web Development
 <!-- Web Development -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -44,7 +44,7 @@ I'm a passionate computer science student who believe that understanding the int
 <br />
 <hr />
 
-### 🧰 Tools and Frameworks
+### > Tools and Frameworks
 <!-- Tools and Frameworks -->
 <img align="left" alt="ASP.NET" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
