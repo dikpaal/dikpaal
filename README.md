@@ -16,7 +16,6 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="R" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="EJS" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <!-- Web Development -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px; padding-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
