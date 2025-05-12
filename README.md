@@ -24,7 +24,7 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Sklearn" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+<img align="left" alt="Sklearn" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
 <br />
 <hr />
 
@@ -49,7 +49,7 @@ I'm a passionate computer science student who believe that understanding the int
 
 ### Cloud
 
-<img align="left" alt="AWS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br />
 <hr />
