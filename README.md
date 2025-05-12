@@ -34,7 +34,7 @@ I'm a passionate computer science student who believe that understanding the int
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Keras" width="30px" style="padding-right:10px; margin-top: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="Langchain" width="30px" style="padding-right:10px; margin-top: 10px" src="[https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg](https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png)" />
+<img align="left" alt="Langchain" width="30px" style="padding-right:10px; margin-top: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" />
 <br />
 <hr />
 
