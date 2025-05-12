@@ -34,12 +34,13 @@ I'm a passionate computer science student who believe that understanding the int
 
 ### Web Development
 <!-- Web Development -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px; margin-top: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px; margin-top: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <br />
 <hr />
