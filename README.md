@@ -7,7 +7,7 @@ I'm a passionate computer science student who believes that understanding the in
 <h1 align="center"> Welcome! 👋 </h1>
 
 <div align="center">
-  Hi! My name is <b>Dikpaal Patel</b>. I'm an undergraduate Machine Learning researcher with a passion for exploring new ideas and challenging myself.
+  Hi! My name is <b>Dikpaal Patel</b>. I'm an undergraduate ML researcher with a passion for exploring new ideas and challenging myself.
   <br/>
   <br/>
 </div>
