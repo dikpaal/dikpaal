@@ -10,7 +10,7 @@
 
 🏛️ Currently a URA @ Tang Lab, MSL.
  
-🚀 Working on designing and implementing a new search tool for note-takers in Python!
+🚀 Working on designing and implementing a new feature for note-takers in Python!
 
 <h2 align="center"> Languages & Tools </h1>
 <div align="center">
