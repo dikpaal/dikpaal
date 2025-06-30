@@ -10,7 +10,7 @@
 
 🏛️ Currently a URA @ Tang Lab, MSL.
  
-🚀 Working on creating my own machine learning framework!
+🚀 Working on creating my own machine learning framework and making an app for people wanting to start calisthenics--injury free!
 
 <h2 align="center"> Languages & Tools </h1>
 <div align="center">
