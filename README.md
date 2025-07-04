@@ -6,7 +6,7 @@
   <br/>
 </div>
 
-🏫 Studying at the University of British Columbia (3rd year)
+🏫 Studying at the University of British Columbia (incoming 4th year)
 
 🏛️ Currently a URA @ Tang Lab, MSL.
  
