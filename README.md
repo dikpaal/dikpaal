@@ -8,7 +8,7 @@
 
 🏫 Studying at the University of British Columbia (incoming 4th year)
 
-🏛️ Currently a URA @ Tang Lab, MSL.
+🏛️ Incoming AI Engineering Intern @ Sendbird.
  
 🚀 Working on creating my own machine learning framework and making an app for people wanting to start calisthenics--injury free!
 
