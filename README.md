@@ -9,8 +9,6 @@
 🏫 Studying at the University of British Columbia (incoming 4th year)
 
 🏛️ Incoming AI Engineering Intern @ Sendbird.
- 
-🚀 Working on creating my own machine learning framework and making an app for people wanting to start calisthenics--injury free!
 
 <h2 align="center"> Languages & Tools </h1>
 <div align="center">
