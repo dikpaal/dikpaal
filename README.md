@@ -4,6 +4,7 @@
   Hi! My name is <b>Dikpaal Patel</b>. I'm an undergraduate CS student with a focus in machine learning and a passion for exploring new ideas and challenging myself.
   <br/>
   <br/>
+</div>
 </div>https://github.com/dikpaal/dikpaal/edit/main/README.md#
 
 🏫 Studying at the University of British Columbia (incoming 4th year)
