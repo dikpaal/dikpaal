@@ -5,7 +5,6 @@
   <br/>
   <br/>
 </div>
-</div>https://github.com/dikpaal/dikpaal/edit/main/README.md#
 
 🏫 Studying at the University of British Columbia (incoming 4th year)
 
