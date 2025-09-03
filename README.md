@@ -8,7 +8,7 @@
 
 🏫 Studying at the University of British Columbia (incoming 4th year)
 
-🏛️ AI Engineering Intern @ Sendbird.
+🏛️ AI Agent Engineering Intern @ Sendbird.
 
 <h2 align="center"> Languages & Tools </h1>
 <div align="center">
