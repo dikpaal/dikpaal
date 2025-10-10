@@ -33,6 +33,9 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/> 
   </a>
+  <a href="https://grafana.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
   </a>
