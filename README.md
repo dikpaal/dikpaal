@@ -7,5 +7,3 @@
 </div>
 
 🏫 Studying at the University of British Columbia (incoming 4th year)
-
-🏛️ AI Agent Engineering Intern @ Sendbird
