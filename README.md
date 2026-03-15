@@ -6,5 +6,10 @@ I currently work as an AI engineer intern at [**@Sendbird**](https://sendbird.co
 
 Outside of work, I'm interested in sketching cars, playing sports, and watching anime.
 
+### Stats
+<p align="center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dikpaal&theme=dark&hide_border=false">
+</p>
+
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/dikpaalpatel)
