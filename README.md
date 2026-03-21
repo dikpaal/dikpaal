@@ -2,7 +2,7 @@
 
 I'm [**Dikpaal**](https://dikpaalpatel.com), a software engineer in Vancouver, BC.
 
-I currently work as an AI engineer intern at [**@Sendbird**](https://sendbird.com), where I help build Delight.AI that makes Sendbird money. Previously, I was a founding engineer at [**@Thirdslate**](https://thirdslate.com) (which initially started as a personal project) and an ML reasearch intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
+I currently work as an software engineer intern at [**@Sendbird**](https://sendbird.com) on the AI/ML team, where I help build Delight.AI that makes Sendbird money. Previously, I was a founding engineer at [**@Thirdslate**](https://thirdslate.com) (which initially started as a personal project) and an undergraduate ML reasearch intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
 
 Outside of work, I'm interested in sketching cars, playing sports, and watching anime.
 
