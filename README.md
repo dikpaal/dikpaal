@@ -2,9 +2,9 @@
 
 I'm [**Dikpaal**](https://dikpaalpatel.com), a software engineer in Vancouver, BC.
 
-I currently work as an software engineer intern at [**@Sendbird**](https://github.com/sendbird) on the AI/ML team, where I help build [**delight.ai**](https://delight.ai) that makes Sendbird money. Previously, I was a founding engineer at [**@Thirdslate**](https://thirdslate.com) (which initially started as a personal project) and an undergraduate ML reasearch intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
+I currently work as an SWE intern at [**@Sendbird**](https://github.com/sendbird) on the AI/ML team, where I help build [**delight.ai**](https://delight.ai). Previously, I was a SWE intern at a small startup in India, a founding engineer at [**@Thirdslate**](https://thirdslate.com) (which initially started as a personal project) and an undergraduate ML reasearch intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
 
-Outside of work, I'm interested in sketching cars, playing sports, and watching anime.
+Outside of work, I'm interested in solving problems, sketching cars, playing sports, and watching anime.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/dikpaalpatel)
