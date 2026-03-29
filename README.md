@@ -27,8 +27,6 @@ Outside of work, I'm interested in solving problems, sketching cars, playing spo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/> 
   </a>
   </div>
-<h2 align="center"> Contact Me </h1>
-<div align="center">
 
 
 #### Let's connect!
