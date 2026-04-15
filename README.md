@@ -7,26 +7,26 @@ I currently work as an SWE intern at [**@Sendbird**](https://github.com/sendbird
 Outside of work, I'm interested in solving problems, sketching cars, playing sports, and watching anime.
 
 <h2 align="center"> Languages & Tools</h1>
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
-  <a href="https://golang.org/" target="_blank">
+<div align="center">
+  <a href="https://golang.org/" target="_blank" style="display:inline-block; margin: 0 6px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
   </a> 
-  <a href="https://java.org" target="_blank"> 
+  <a href="https://java.org" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.postgresql.org/" target="_blank"> 
+  <a href="https://www.postgresql.org/" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank"> 
+  <a href="https://www.docker.com/" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
   </a>
-  <a href="https://www.kubernetes.com/" target="_blank"> 
+  <a href="https://www.kubernetes.com/" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/> 
   </a>
   </div>
