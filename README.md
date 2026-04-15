@@ -8,12 +8,8 @@ Outside of work, I'm interested in solving problems, sketching cars, playing spo
 
 <h2 align="center"> Languages & Tools</h1>
 <div align="center">
-  <a href="https://golang.org/" target="_blank" style="display:inline-block; margin: 0 6px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" style="display:inline-block; margin: 0 6px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
   <a href="https://java.org" target="_blank" style="display:inline-block; margin: 0 6px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
