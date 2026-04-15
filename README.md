@@ -7,7 +7,7 @@ I currently work as an SWE intern at [**@Sendbird**](https://github.com/sendbird
 Outside of work, I'm interested in solving problems, sketching cars, playing sports, and watching anime.
 
 <h2 align="center"> Languages & Tools</h1>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
   <a href="https://golang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> 
   </a> 
