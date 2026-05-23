@@ -1,8 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Dikpaal**](https://linkedin.com/in/dikpaalpatel), an undergraduate student at UBC Vancouver.
+I'm [**Dikpaal**](https://linkedin.com/in/dikpaalpatel), an undergraduate student at the University of British Columbia.
 
-I currently work as an SWE intern at [**@Sendbird**](https://github.com/sendbird) on the AI/ML team, where I mainly contribute to [**delight.ai**](https://delight.ai). Previously, I was a SWE intern at a small startup in India, a founding engineer at [**@Thirdslate**](https://thirdslate.com) (which initially started as a personal project) and an undergraduate ML reasearch intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
+Previously, I worked as a SWE intern at [**@Sendbird**](https://github.com/sendbird) on the AI/ML team, where I mainly contributed to [**delight.ai**](https://delight.ai). I was also a SWE intern at a small startup in India, a founding engineer at [**@Thirdslate**](https://thirdslate.com), and an undergraduate ML research intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
 
 Outside of work, I'm interested in solving problems, sketching cars, playing sports, and watching anime.
 
