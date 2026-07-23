@@ -2,7 +2,7 @@
 
 I'm [**Dikpaal**](https://linkedin.com/in/dikpaalpatel), an undergraduate student at the University of British Columbia.
 
-Previously, I worked as a SWE intern at [**@Sendbird**](https://github.com/sendbird) on the AI/ML team, where I mainly contributed to [**delight.ai**](https://delight.ai). I was also a SWE intern at a small startup in India, a founding engineer at [**@Thirdslate**](https://thirdslate.com), and an undergraduate ML research intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
+I currently work as a SWE intern (backend) at [**@Kepler**](https://kepler.space), a space startup based in Toronto. Previously, I worked as a SWE intern at [**@Sendbird**](https://github.com/sendbird) on the AI/ML team, where I mainly contributed to [**delight.ai**](https://delight.ai). I was also a SWE intern at a small startup in India, a founding engineer at [**@Thirdslate**](https://thirdslate.com), and an undergraduate ML research intern at a computational neuroscience lab at [**@UBC**](https://github.com/UBC-CS).
 
 Outside of work, I'm interested in solving problems, sketching cars, playing sports, and watching anime.
 
